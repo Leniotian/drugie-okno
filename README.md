@@ -13,3 +13,4 @@ Piętnaście zmian wprowadzonych przez agenta. Każda linijka: prośba, wielkoś
 8. Dodaj przycisk Start na srodku okna. 1: 1 linijek, rozumiem 1/1.
 9. Pokoloruj przycisk Start na fioletowo z bialym napisem. 2: 2 linijek, rozumiem 2/2.
 10. Dodaj pole tekstowe z podpowiedzia Wpisz imie. 1: 1 linijek, rozumiem 1/1.
+11. Dodaj pole wyboru Tryb ciemny. 1: 1 linijek, rozumiem 1/1.
