@@ -6,6 +6,7 @@
         x:Class="okno.MainWindow"
         Title="Warsztat"
         Width="500"
-        Height="400">
+        Height="400"
+        Background="#2d2a4a">
     <TextBlock Text="Warsztat" HorizontalAlignment="Center" />
 </Window>

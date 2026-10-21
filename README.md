@@ -6,3 +6,4 @@ Piętnaście zmian wprowadzonych przez agenta. Każda linijka: prośba, wielkoś
 
 2. Zmien tytul okna na "Warsztat". 4: 4 linijek, rozumiem 4/4.
 3. Ustaw rozmiar okna na 500 na 400. 4: 4 linijek, rozumiem 4/4.
+4. Zmien kolor tla okna na fioletowo-grafitowy. 3: 3 linijek, rozumiem 3/3.
