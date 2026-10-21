@@ -16,5 +16,10 @@
         <CheckBox Content="Tryb ciemny" IsChecked="True" HorizontalAlignment="Center" Foreground="White" />
         <Slider Minimum="0" Maximum="100" Value="40" Width="240" />
         <ProgressBar Value="40" Width="240" Height="8" />
+        <ComboBox Width="240" SelectedIndex="0">
+            <ComboBoxItem>Avalonia</ComboBoxItem>
+            <ComboBoxItem>WPF</ComboBoxItem>
+            <ComboBoxItem>WinUI</ComboBoxItem>
+        </ComboBox>
     </StackPanel>
 </Window>

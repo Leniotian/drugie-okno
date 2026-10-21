@@ -17,3 +17,4 @@ Piętnaście zmian wprowadzonych przez agenta. Każda linijka: prośba, wielkoś
 12. Dodaj suwak od 0 do 100. 1: 1 linijek, rozumiem 1/1.
 13. Dodaj pasek postepu pod suwakiem. 1: 1 linijek, rozumiem 1/1.
 14. Wlacz ciemny motyw aplikacji w App.axaml. 6: 6 linijek, rozumiem 6/6.
+15. Dodaj liste rozwijana z frameworkami Avalonia, WPF i WinUI. 5: 5 linijek, rozumiem 5/5.
