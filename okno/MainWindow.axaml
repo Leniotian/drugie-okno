@@ -15,5 +15,6 @@
         <TextBox Watermark="Wpisz imie" Width="240" />
         <CheckBox Content="Tryb ciemny" IsChecked="True" HorizontalAlignment="Center" Foreground="White" />
         <Slider Minimum="0" Maximum="100" Value="40" Width="240" />
+        <ProgressBar Value="40" Width="240" Height="8" />
     </StackPanel>
 </Window>

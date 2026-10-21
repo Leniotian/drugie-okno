@@ -15,3 +15,4 @@ Piętnaście zmian wprowadzonych przez agenta. Każda linijka: prośba, wielkoś
 10. Dodaj pole tekstowe z podpowiedzia Wpisz imie. 1: 1 linijek, rozumiem 1/1.
 11. Dodaj pole wyboru Tryb ciemny. 1: 1 linijek, rozumiem 1/1.
 12. Dodaj suwak od 0 do 100. 1: 1 linijek, rozumiem 1/1.
+13. Dodaj pasek postepu pod suwakiem. 1: 1 linijek, rozumiem 1/1.
