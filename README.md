@@ -10,3 +10,4 @@ Piętnaście zmian wprowadzonych przez agenta. Każda linijka: prośba, wielkoś
 5. Powieksz czcionke napisu Warsztat i ustaw bialy kolor. 2: 2 linijek, rozumiem 2/2.
 6. Zgrupuj zawartosc okna w StackPanel na srodku. 4: 4 linijek, rozumiem 4/4.
 7. Dodaj podtytul pod napisem Warsztat. 1: 1 linijek, rozumiem 1/1.
+8. Dodaj przycisk Start na srodku okna. 1: 1 linijek, rozumiem 1/1.
