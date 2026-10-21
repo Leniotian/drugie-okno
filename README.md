@@ -11,3 +11,4 @@ Piętnaście zmian wprowadzonych przez agenta. Każda linijka: prośba, wielkoś
 6. Zgrupuj zawartosc okna w StackPanel na srodku. 4: 4 linijek, rozumiem 4/4.
 7. Dodaj podtytul pod napisem Warsztat. 1: 1 linijek, rozumiem 1/1.
 8. Dodaj przycisk Start na srodku okna. 1: 1 linijek, rozumiem 1/1.
+9. Pokoloruj przycisk Start na fioletowo z bialym napisem. 2: 2 linijek, rozumiem 2/2.
