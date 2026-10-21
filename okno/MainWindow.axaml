@@ -14,5 +14,6 @@
         <Button Content="Start" HorizontalAlignment="Center" Background="#7c5cbf" Foreground="White" Padding="16,8" />
         <TextBox Watermark="Wpisz imie" Width="240" />
         <CheckBox Content="Tryb ciemny" IsChecked="True" HorizontalAlignment="Center" Foreground="White" />
+        <Slider Minimum="0" Maximum="100" Value="40" Width="240" />
     </StackPanel>
 </Window>
