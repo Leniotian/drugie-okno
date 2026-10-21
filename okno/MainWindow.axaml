@@ -1,9 +1,25 @@
-<Window xmlns="https://github.com/avaloniaui"
+﻿<Window xmlns="https://github.com/avaloniaui"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="okno.MainWindow"
-        Title="okno">
-    Welcome to Avalonia!
+        Title="Warsztat"
+        Width="500"
+        Height="400"
+        Background="#2d2a4a">
+    <StackPanel Spacing="16" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="24">
+        <TextBlock Text="Warsztat" HorizontalAlignment="Center" FontSize="28" FontWeight="Bold" Foreground="White" />
+        <TextBlock Text="Modul 2 — okno z agentem" HorizontalAlignment="Center" Foreground="#d6d3e8" />
+        <Button Content="Start" HorizontalAlignment="Center" Background="#7c5cbf" Foreground="White" Padding="16,8" />
+        <TextBox PlaceholderText="Wpisz imie" Width="240" />
+        <CheckBox Content="Tryb ciemny" IsChecked="True" HorizontalAlignment="Center" Foreground="White" />
+        <Slider Minimum="0" Maximum="100" Value="40" Width="240" />
+        <ProgressBar Value="40" Width="240" Height="8" />
+        <ComboBox Width="240" SelectedIndex="0">
+            <ComboBoxItem>Avalonia</ComboBoxItem>
+            <ComboBoxItem>WPF</ComboBoxItem>
+            <ComboBoxItem>WinUI</ComboBoxItem>
+        </ComboBox>
+    </StackPanel>
 </Window>
